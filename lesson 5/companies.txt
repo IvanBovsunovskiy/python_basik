@@ -1,0 +1,5 @@
+comp_1 Ltd 1000 700
+comp_2 JSC 1000 1100
+comp_3 JSC 5000 100
+comp_4 JSC 100000 99000
+comp_5 Ltd 2000 1000

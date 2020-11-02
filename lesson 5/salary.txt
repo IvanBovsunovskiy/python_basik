@@ -1,0 +1,5 @@
+Ivanov 100
+petrov 50
+sidorov 5
+kovalev 13
+melnik 20
